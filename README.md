@@ -3,7 +3,7 @@
 <!-- Animated Neon Banner -->
 <p align="center">
   <a href="https://linkedin.com/in/ashikkaiser" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=ED0C12&center=true&vCenter=true&width=980&lines=Ashik+Kaiser+%7C+Senior+Software+Engineer+%40+Arogga+Ltd;Founder+%2F+President+%40+Microxen+Inc;10%2B+Years+Creating+Scalable+Products;Code.+Learn.+Inspire." alt="typing banner">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=ED0C12&center=true&vCenter=true&width=980&lines=Ashik+Kaiser+%7C+Senior+Software+Engineer+%40+Arogga+Ltd;10%2B+Years+Creating+Scalable+Products;Code.+Learn.+Inspire." alt="typing banner">
   </a>
 </p>
 
@@ -21,9 +21,9 @@ Experienced Full-Stack Software Engineer with over 10 years of expertise in desi
 
 ---
 
-### 👤 Professional Profile
-Senior Software Engineer at **Arogga Ltd** — building resilient, user‑centric products in health‑tech and beyond.
-Founder / President at **Microxen Inc** — leading product strategy, engineering excellence, and innovation culture.
+### 👤 Professional
+- Senior Software Engineer at **Arogga Ltd** — building resilient, user‑centric products in health‑tech and beyond
+- Founder of **Microxen Inc** — leadership in product strategy, engineering excellence, and innovation culture
 
 ```diff
 + Ship value early. Scale cleanly. Mentor generously.
@@ -33,7 +33,7 @@ Founder / President at **Microxen Inc** — leading product strategy, engineerin
 
 ### 🧠 Core Strengths
 - System Design, Clean Architecture, Observability (metrics, tracing, alerts)
-- Full‑Stack Delivery (React, TypeScript, Node.js, Python, Laravel)
+- Full‑Stack Delivery (React, TypeScript, Node.js, Python, Laravel, Tailwind)
 - Cloud & DevOps (AWS, Docker, CI/CD, IaC)
 - Product Thinking, Engineering Leadership, Knowledge Sharing
 
@@ -47,8 +47,7 @@ Founder / President at **Microxen Inc** — leading product strategy, engineerin
 ---
 
 ### 🏆 Highlights (Selected)
-- Senior Software Engineer at **Arogga Ltd** (Current): Delivered health‑tech solutions with scalable services and data‑driven features
-- Founder / President at **Microxen Inc** (2015—Present): Built products and teams with an innovation‑first culture
+- Senior Software Engineer at **Arogga Ltd** (Current): Delivering health‑tech solutions with scalable services and data‑driven features
 - Led multiple full‑stack projects end‑to‑end: discovery → delivery → production reliability
 - Mentored devs on code quality, testing standards, and pragmatic architecture
 - Championed observability: improved MTTR via logs, metrics, dashboards, and alerts
@@ -95,11 +94,11 @@ Founder / President at **Microxen Inc** — leading product strategy, engineerin
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ashikkaiser&theme=radical&title=Commit,Repositories,Followers,Stars" alt="Github Trophy" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashikkaiser&show_icons=true&theme=radical&hide_border=true&rank_icon=percent" alt="stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashikkaiser&show_icons=true&theme=radical&hide_border=true&rank_icon=percent&cache_seconds=86400" alt="stats">
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikkaiser&theme=radical&hide_border=true" alt="streak">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikkaiser&layout=compact&theme=radical&hide_border=true" alt="langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikkaiser&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="langs">
 </p>
 
 ---
