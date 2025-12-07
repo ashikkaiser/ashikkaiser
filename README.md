@@ -1,22 +1,144 @@
-<h1 align="center">Hi 👋, I'm Ashik Kaiser</h1>
-<h3 align="center">A passionate Software developer from Bangladesh</h3>
+<!-- Tech Vibe • Pro Developer • Neon Motion -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikkaiser&label=Profile%20views&color=0e75b6&style=flat" alt="ashikkaiser" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashikkaiser" alt="ashikkaiser" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/me.ashikkaiser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="me.ashikkaiser" height="30" width="40" /></a>
+<!-- Animated Neon Banner -->
+<p align="center">
+  <a href="https://linkedin.com/in/ashikkaiser" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=ED0C12&center=true&vCenter=true&width=980&lines=Ashik+Kaiser+%7C+Senior+Software+Engineer+%40+Arogga+Ltd;Founder+%2F+President+%40+Microxen+Inc;10%2B+Years+Creating+Scalable+Products;Code.+Learn.+Inspire." alt="typing banner">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<!-- Minimal neon badge stack -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-10%2B%20years-ED0C12?style=for-the-badge&labelColor=0A0A0A">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Product-ED0C12?style=for-the-badge&labelColor=0A0A0A">
+  <img src="https://img.shields.io/badge/Open%20Source-Advocate-ED0C12?style=for-the-badge&labelColor=0A0A0A">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikkaiser&show_icons=true&locale=en&layout=compact" alt="ashikkaiser" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikkaiser&show_icons=true&locale=en" alt="ashikkaiser" /></p>
+### 🔰 Introduction
+Experienced Full-Stack Software Engineer with over 10 years of expertise in designing, developing, and deploying scalable web applications. Proficient in MERN stack technologies (MongoDB, Express.js, React, Node.js) alongside advanced skills in Laravel, Tailwind CSS, and JavaScript. A results-driven leader with a proven track record of founding successful technology ventures, enhancing system efficiency, and delivering high-impact healthcare and enterprise software solutions. Adept at collaborating with cross-functional teams, optimizing application performance, and staying ahead of emerging technologies to deliver business value.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikkaiser&" alt="ashikkaiser" /></p>
+---
+
+### 👤 Professional Profile
+Senior Software Engineer at **Arogga Ltd** — building resilient, user‑centric products in health‑tech and beyond.
+Founder / President at **Microxen Inc** — leading product strategy, engineering excellence, and innovation culture.
+
+```diff
++ Ship value early. Scale cleanly. Mentor generously.
+```
+
+---
+
+### 🧠 Core Strengths
+- System Design, Clean Architecture, Observability (metrics, tracing, alerts)
+- Full‑Stack Delivery (React, TypeScript, Node.js, Python, Laravel)
+- Cloud & DevOps (AWS, Docker, CI/CD, IaC)
+- Product Thinking, Engineering Leadership, Knowledge Sharing
+
+---
+
+### ⚙️ Tech Vibe Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,js,laravel,tailwind,aws,docker,graphql,git&theme=dark">
+</p>
+
+---
+
+### 🏆 Highlights (Selected)
+- Senior Software Engineer at **Arogga Ltd** (Current): Delivered health‑tech solutions with scalable services and data‑driven features
+- Founder / President at **Microxen Inc** (2015—Present): Built products and teams with an innovation‑first culture
+- Led multiple full‑stack projects end‑to‑end: discovery → delivery → production reliability
+- Mentored devs on code quality, testing standards, and pragmatic architecture
+- Championed observability: improved MTTR via logs, metrics, dashboards, and alerts
+- Automated CI/CD pipelines to increase deployment confidence and speed
+- Advocated for typed APIs, strong contracts, and docs that enable teams
+
+---
+
+### 🎓 Certifications
+- Building Web Applications in PHP — University of Michigan (Issued Jan 2025)
+  - Credential ID: KX5QLLSX7JER
+- IBM DevOps and Software Engineering Specialization — IBM (Issued Jan 2025)
+  - Credential ID: ZQ6S6NXJVXR
+- IBM Full Stack Software Developer Specialization — IBM (Issued Jan 2025)
+  - Credential ID: 5Q4BGRN6SXDQ
+- IBM Full Stack JavaScript Developer — IBM (Issued Jan 2025)
+  - Credential ID: TDKEXJSU
+- Machine Learning — Stanford University (Issued Jan 2025)
+  - Credential ID: V0W7Y5097FHK
+- Meta Back-End Developer — Meta (Issued Nov 2023)
+  - Credential ID: DN5N4N1R80UW
+- Python 101 for Data Science — IBM (Issued Jan 2025)
+  - Credential ID: d0b8ba7c656446b07fa0ccb331554d
+- Advanced React — Meta (Issued Nov 2023)
+  - Credential ID: BFMAT7Y7Q3JQ
+- Foundations of Cybersecurity — Google (Issued Nov 2023)
+  - Credential ID: KX7ATNNX2KH
+- Google Cloud Fundamentals: Core Infrastructure — Google (Issued Nov 2023)
+  - Credential ID: YBCT1LE6AF9G
+- HTML, CSS, and JavaScript for Web Developers — Johns Hopkins University (Issued Nov 2023)
+  - Credential ID: F7JBAUJKCDA
+- Introduction to Front-End Development — Meta (Issued Nov 2023)
+  - Credential ID: KBL5U3LHWYK
+- Programming with JavaScript — Meta (Issued Nov 2023)
+  - Credential ID: V7DE1P9FBWLSK
+- What is Data Science? — IBM (Issued Nov 2023)
+  - Credential ID: YHE01SRE6R9P
+
+> More on Credly: https://www.credly.com/users/ashikkaiser
+
+---
+
+### 📊 Signal (Live)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashikkaiser&theme=radical&title=Commit,Repositories,Followers,Stars" alt="Github Trophy" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashikkaiser&show_icons=true&theme=radical&hide_border=true&rank_icon=percent" alt="stats">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikkaiser&theme=radical&hide_border=true" alt="streak">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikkaiser&layout=compact&theme=radical&hide_border=true" alt="langs">
+</p>
+
+---
+
+### 🧩 Principles
+- Domain‑first design: business clarity drives architecture
+- Fewer moving parts → faster debugging and iteration
+- Strong standards: testing, automation, documentation
+- Empathy in engineering: teams outperform heroes
+
+---
+
+### 🌐 Connect
+<p align="center">
+  <a href="mailto:ashikkaiser@gmail.com"><img src="https://img.shields.io/badge/Email-ashikkaiser%40gmail.com-ED0C12?style=for-the-badge&labelColor=0A0A0A&logo=gmail"></a>
+  <a href="https://linkedin.com/in/ashikkaiser"><img src="https://img.shields.io/badge/LinkedIn-Connect-ED0C12?style=for-the-badge&labelColor=0A0A0A&logo=linkedin"></a>
+  <a href="https://fb.com/me.ashikkaiser"><img src="https://img.shields.io/badge/Facebook-Profile-ED0C12?style=for-the-badge&labelColor=0A0A0A&logo=facebook"></a>
+</p>
+
+---
+
+<details>
+  <summary>🧪 Engineering Taste</summary>
+  <ul>
+    <li>Typed interfaces, graceful failures, clear contracts</li>
+    <li>Observability baked‑in (metrics, traces, alerts)</li>
+    <li>Small PRs, strong reviews, good docs, happy teams</li>
+  </ul>
+</details>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashikkaiser&color=ED0C12&style=flat" alt="views">
+</p>
+
+<!--
+Notes:
+- Animated header via readme-typing-svg
+- Neon accents using ED0C12 over dark background badges
+- Compact sections for a premium feel
+-->
