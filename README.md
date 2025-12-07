@@ -44,35 +44,6 @@ Experienced Full-Stack Software Engineer with over 10 years of expertise in desi
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,js,laravel,tailwind,aws,docker,graphql,git&theme=dark">
 </p>
 
-<!-- Readme Components: Logos -->
-<p>
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=nodejs)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=laravel)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=aws)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=docker)](https://github.com/harish-sethuraman/readme-components)
-</p>
-
-<!-- Readme Components: Skill Progress -->
-<p>
-[![React progress](https://readme-components.vercel.app/api?component=linearprogress&skill=React&value=85)](https://github.com/harish-sethuraman/readme-components)
-[![TypeScript progress](https://readme-components.vercel.app/api?component=linearprogress&skill=TypeScript&value=80)](https://github.com/harish-sethuraman/readme-components)
-[![Node.js progress](https://readme-components.vercel.app/api?component=linearprogress&skill=Node.js&value=85)](https://github.com/harish-sethuraman/readme-components)
-[![Laravel progress](https://readme-components.vercel.app/api?component=linearprogress&skill=Laravel&value=75)](https://github.com/harish-sethuraman/readme-components)
-[![MongoDB progress](https://readme-components.vercel.app/api?component=linearprogress&skill=MongoDB&value=80)](https://github.com/harish-sethuraman/readme-components)
-</p>
-
-<!-- Readme Components: Star Ratings -->
-<p>
-[![React rating](https://readme-components.vercel.app/api?component=star-rating&skill=react&text=5)](https://github.com/harish-sethuraman/readme-components)
-[![TypeScript rating](https://readme-components.vercel.app/api?component=star-rating&skill=typescript&text=4)](https://github.com/harish-sethuraman/readme-components)
-[![Node.js rating](https://readme-components.vercel.app/api?component=star-rating&skill=nodejs&text=5)](https://github.com/harish-sethuraman/readme-components)
-[![Laravel rating](https://readme-components.vercel.app/api?component=star-rating&skill=laravel&text=4)](https://github.com/harish-sethuraman/readme-components)
-[![MongoDB rating](https://readme-components.vercel.app/api?component=star-rating&skill=mongodb&text=4)](https://github.com/harish-sethuraman/readme-components)
-</p>
-
 ---
 
 ### 🏆 Highlights (Selected)
